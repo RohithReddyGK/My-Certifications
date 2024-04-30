@@ -1,4 +1,4 @@
-Hello,This is Rohith Reddy.G.K
+Hello 👋,This is Rohith Reddy.G.K
 
 # 💫 About Me:
 I learnt the basics of some object oriented programming languages like Python, Java and C.<br>I'm interested in learning Web Development (Basically , Full Stack Developer).<br>My interest also lies in learning the core languages like HTML, JavaScript and CSS.<br>
