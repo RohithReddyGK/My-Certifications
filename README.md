@@ -1,4 +1,4 @@
-       <h1>Hello, This is Rohith Reddy.G.K</h1>
+       Hello 👋,This is Rohith Reddy.G.K
        
 # 💫 About Me:
 Skilled in : Python, Java and C(Basics).<br>Advanced Java concepts like: Swing,Servlet and Collections.<br>Front-End Design.<br>HTML,JavaScript and CSS.<br>React.js(Learning).><br>My interest towards becoming the "Full Stack Developer".<br>Happy to say that "I am towards it".
