@@ -1,6 +1,5 @@
        
-# 💫 About Me:
-# Hello, I'm Rohit Reddy GK 👋
+# Hello, I'm Rohith Reddy GK 👋
 
 # 💫 About Me:
 I'm a passionate Information Science and Engineering student with a strong interest in developing impactful technology projects.
