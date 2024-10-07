@@ -5,6 +5,27 @@
 ### About Me
 I'm a passionate Information Science and Engineering student with a strong interest in developing impactful technology projects. 
 
+## Tech Stack 🚀
+
+- **Languages**:
+  - 🐍 Python
+  - ☕ Java
+  - 🟡 JavaScript
+  - 📜 HTML/CSS
+  
+- **Frontend**:
+  - ⚛️ React.js
+  - 🎨 Tailwind CSS
+  
+- **Backend**:
+  - 🌿 Django
+  - 🐘 Oracle
+  - 🍃 MongoDB
+  
+- **Tools**:
+  - 🐙 Git
+  - 💻 Visual Studio Code
+
 ### Tech Stack
 - **Programming Languages**: Python, Java and C(Basics), Advanced Java concepts like: Swing,Servlet and Collections.
 - **Frontend**: React.js, Tailwind CSS, HTML/CSS, JavaScript.
