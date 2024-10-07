@@ -1,6 +1,19 @@
-       Hello 👋,This is Rohith Reddy.G.K
        
 # 💫 About Me:
+# Hello, I'm Rohit Reddy GK 👋
+
+### About Me
+I'm a passionate Information Science and Engineering student with a strong interest in developing impactful technology projects. 
+
+### Tech Stack
+- **Programming Languages**: Java, Python, C++
+- **Frontend**: React.js, Tailwind CSS, HTML/CSS, JavaScript
+- **Backend**: Node.js
+- **Data**: MongoDB, Pandas, BeautifulSoup
+- 
+### Get in touch!
+Feel free to check out my repositories and connect with me via [LinkedIn](https://www.linkedin.com/in/rohith-reddy-gk-9124a226a/).
+
 Skilled in : Python, Java and C(Basics).<br>Advanced Java concepts like: Swing,Servlet and Collections.<br>Front-End Design.<br>HTML,JavaScript and CSS.<br>React.js(Learning).><br>My interest towards becoming the "Full Stack Developer".<br>Happy to say that "I am towards it".
 
 
