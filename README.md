@@ -6,13 +6,10 @@
 I'm a passionate Information Science and Engineering student with a strong interest in developing impactful technology projects. 
 
 ### Tech Stack
-- **Programming Languages**: Java, Python, C++
-- **Frontend**: React.js, Tailwind CSS, HTML/CSS, JavaScript
-- **Backend**: Node.js
-- **Data**: MongoDB, Pandas, BeautifulSoup
-
-### Skilled in : 
-Python, Java and C(Basics).<br>Advanced Java concepts like: Swing,Servlet and Collections.<br>Front-End Design.<br>HTML,JavaScript and CSS.<br>React.js(Learning).><br>My interest towards becoming the "Full Stack Developer".<br>Happy to say that "I am towards it".
+- **Programming Languages**: Python, Java and C(Basics), Advanced Java concepts like: Swing,Servlet and Collections.
+- **Frontend**: React.js, Tailwind CSS, HTML/CSS, JavaScript.
+- **Backend**: Node.js(Express.js).
+- **Data**: MongoDB, Pandas, BeautifulSoup.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohith-reddy-gk-9124a226a/) 
