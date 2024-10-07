@@ -2,7 +2,8 @@
 # Hello, I'm Rohith Reddy GK 👋
 
 # 💫 About Me:
-🔭 I’m currently pursuing by Under Graduation B.E in Information Science and Engineering.<br>👯 I’m looking to collaborate on real world projects .<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Full Stack Development.<br>💬 Ask me about Java concepts.<br>⚡ 🌍 Fun fact: I love traveling and have a goal to visit all continents while working as a digital nomad
+🔭 I’m currently pursuing by Under Graduation B.E in Information Science and Engineering.<br>👯 I’m looking to collaborate on real world projects .<br>🤝 I’m looking for help with my learning.<br>🌱 I’m currently learning Full Stack Development.<br>💬 Ask me about Java concepts.<br>⚡ 🌍 Fun fact: I love traveling and have a goal to visit all continents while working as a digital nomad
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rohith Reddy GK) 
