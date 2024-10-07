@@ -21,10 +21,9 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=RohithReddyGK&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=RohithReddyGK&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ### 🤝 Let's Connect
 Feel free to reach out or check out my projects. I’m always open to collaboration and new opportunities!
+---
+[![](https://visitcount.itsvg.in/api?id=RohithReddyGK&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
