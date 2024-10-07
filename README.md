@@ -24,4 +24,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=RohithReddyGK&icon=0&color=0)](https://visitcount.itsvg.in)
 
+### 🤝 Let's Connect
+Feel free to reach out or check out my projects. I’m always open to collaboration and new opportunities!
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
