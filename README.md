@@ -1,4 +1,3 @@
-       
 # Hello 👋, I'm Rohith Reddy GK 
 
 # 💫 About Me:
