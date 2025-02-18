@@ -11,8 +11,8 @@ This repository serves as a record of all my certifications in different domains
 
 **📊Data Science and Analytics**
 
-**Internships and Industry Experience**
+**💼Internships and Industry Experience**
 
-**Extracurricular Achievements**
+**🏆Extracurricular Achievements**
 
 ### Each certificate in this repository signifies my successful completion of important milestones and contributes to my overall skill set.
